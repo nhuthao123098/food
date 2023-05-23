@@ -39,8 +39,7 @@
 
     text-decoration: none;
   }
-  
-.button:hover {
+
+  .button:hover {
     background-color: rgba(240, 81, 35, 0.8);
   }
-
