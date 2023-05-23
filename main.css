@@ -40,3 +40,7 @@
     text-decoration: none;
   }
   
+.button:hover {
+    background-color: rgb(240, 81, 35, 0.8);
+    color: rbg(0,0,0,0.8);
+  }
